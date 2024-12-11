@@ -58,8 +58,8 @@ Ensure you have the following installed:
 - Modify the dataset loading path in the script if necessary.
 
 ## License
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](~).
 
 ## Author
-Developed by [seongjaekwon]
+Developed by [seongjaekwon](~)
 
